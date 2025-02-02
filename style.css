@@ -129,12 +129,4 @@ body {
   .hidden {
     display: none;
   }
-  .eye {
-    position: fixed; /* Fixed position for bottom-right corner */
-    top: 20px; /* Distance from bottom */
-    right: 20px;  /* Distance from right */
-    cursor: pointer; /* Make it clickable */
-    z-index: 9999   
-  }
- 
  
